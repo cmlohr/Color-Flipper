@@ -1,2 +1,2 @@
 # Color-Flipper
-javascript color flipper
+CSS,HTML and Javascript simple and hex color flipper.
